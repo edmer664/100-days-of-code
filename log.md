@@ -30,3 +30,8 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
+###Day 0: May 9, 2021 
+**Today's Progress**: Studied and experimented how Kivy works plans to work on a GUI project with python.
+
+ 
+**Thoughts**: Still stucked on the configuration part but I grasp the basics somehow.
